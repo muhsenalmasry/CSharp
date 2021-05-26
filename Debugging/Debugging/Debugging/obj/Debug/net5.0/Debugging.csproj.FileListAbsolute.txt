@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.exe
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.deps.json
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.dll
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\ref\Debugging.dll
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\bin\Debug\net5.0\Debugging.pdb
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.csprojAssemblyReference.cache
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.dll
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\ref\Debugging.dll
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.pdb
+C:\Users\Muhsen\source\repos\Debugging\Debugging\Debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache

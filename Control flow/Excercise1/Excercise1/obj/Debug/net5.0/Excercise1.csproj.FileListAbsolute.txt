@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.exe
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.deps.json
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.runtimeconfig.json
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.dll
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\ref\Excercise1.dll
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\bin\Debug\net5.0\Excercise1.pdb
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.csprojAssemblyReference.cache
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.dll
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\ref\Excercise1.dll
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.pdb
+C:\Users\Muhsen\source\repos\Control flow\Excercise1\Excercise1\obj\Debug\net5.0\Excercise1.genruntimeconfig.cache

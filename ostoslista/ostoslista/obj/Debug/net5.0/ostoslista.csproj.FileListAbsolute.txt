@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.exe
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.deps.json
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.runtimeconfig.json
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.dll
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ref\ostoslista.dll
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\bin\Debug\net5.0\ostoslista.pdb
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.csprojAssemblyReference.cache
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.dll
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ref\ostoslista.dll
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.pdb
+C:\Users\Muhsen\source\repos\ostoslista\ostoslista\obj\Debug\net5.0\ostoslista.genruntimeconfig.cache
