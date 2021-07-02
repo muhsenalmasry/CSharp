@@ -6,17 +6,18 @@ namespace CourseData
 {
     public class Data
     {
-        string CourseCode { get; set; }
-        string Name { get; set; }
-        string StartDate { get; set; }
-        string EndDate { get; set; }
-        string Location { get; set; }
-        string MaterialType { get; set; }
-        string Description { get; set; }
-        string MatCode { get; set; }
-        string MainCategory { get; set; }
-        string SubCategory1 { get; set; }
-        string SubCategory2 { get; set; }
+        public string CourseCode { get; set; }
+        public string Name { get; set; }
+        public string StartDate { get; set; }
+        public string EndDate { get; set; }
+        public string Location { get; set; }
+        public string MaterialType { get; set; }
+        public string Description { get; set; }
+        public string MatCode { get; set; }
+        public string MainCategory { get; set; }
+        public string SubCategory1 { get; set; }
+        public string SubCategory2 { get; set; }
+        List<Data> data { get; set; }
 
         public Data(string coursecode, string nimi, string startdate, string enddate, string location,
             string materialtype, string description, string matdata, string maincategory, string subcategory1, string subcategory2)
@@ -32,8 +33,9 @@ namespace CourseData
             MainCategory = maincategory;
             SubCategory1 = subcategory1;
             SubCategory2 = subcategory2;
+            //data = new List<Data>();
         }
-
+        /*
         public static bool SarakkeidenmääräOk(Data data)
         {
             bool ok = true;
@@ -71,7 +73,7 @@ namespace CourseData
         public static bool LuokitusOk(Data data)
         {
             bool ok = true;
-            if (string.IsNullOrEmpty(data.MainCategory) || string.IsNullOrEmpty(data.SubCategory1))
+            if (string.IsNullOrWhiteSpace(data.MainCategory) || string.IsNullOrWhiteSpace(data.SubCategory1))
                 ok = false;
             return ok;
         }
@@ -79,17 +81,7 @@ namespace CourseData
         public static bool KestoOk(Data data)
         {
             bool ok = true;
-
-            try
-            {
-                var daysCountTry = (Convert.ToDateTime(data.EndDate) - Convert.ToDateTime(data.StartDate)).TotalDays;
-
-            }
-            catch (Exception)
-            {
-                return false;
-            }
-            var daysCount = (Convert.ToDateTime(data.EndDate) - Convert.ToDateTime(data.StartDate)).TotalDays;
+            var daysCount = (DateTime.Parse(data.EndDate.Replace(".", "/")) - DateTime.Parse(data.StartDate.Replace(".", "/"))).TotalDays;
             if (daysCount < 0)
                 ok = false;
             return ok;
@@ -116,6 +108,7 @@ namespace CourseData
                     writer.Write("rivi: " + data.IndexOf(item) + ", Päivämäärät virheelliset!");
                 }
             }
+            writer.Close();
         }
 
         public static void TulostusMuoto(List<Data> data)
@@ -123,14 +116,19 @@ namespace CourseData
             StreamWriter writer = new StreamWriter("c:/users/muhsen/desktop/KurssiData_20210629_185142.csv");
             foreach (var item in data)
             {
-                
-                List<string> oikeatrivit = new List<string>();
                 int.TryParse(item.CourseCode, out int coursecode);
                 string courseCode = "C" + Convert.ToString( coursecode - 550000 + 1000000);
-                var daysCount = (Convert.ToDateTime(item.EndDate) - Convert.ToDateTime(item.StartDate)).TotalDays;
+                var daysCount = (Convert.ToDateTime(item.EndDate.Replace(".", "/")) - Convert.ToDateTime(item.StartDate.Replace(".", "/"))).TotalDays;
                 string duration = Convert.ToString(daysCount);
                 writer.WriteLine($"{courseCode};{item.Name};{item.StartDate};{duration};{item.Location};{item.MaterialType};{item.Description};{item.MatCode};{item.MainCategory};{item.SubCategory1};{item.SubCategory2}");
             }
-        } 
+            writer.Close();
+        } */
+
+        public override string ToString()
+        {
+            return CourseCode + " | " + Name + " | " + StartDate + " | " + EndDate + " | " + Location + " | " + MaterialType + " | " + Description
+                + " | " + MatCode + " | " + MainCategory + " | " + SubCategory1 + " | " + SubCategory2 + " |";
+        }
     }
 }

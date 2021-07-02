@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/CourseData.dll": {}
         }
-      },
-      "DataKäsittelijä/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "CourseData": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/DataKäsittelijä.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DataKäsittelijä.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../CourseData/CourseData.csproj",
       "msbuildProject": "../CourseData/CourseData.csproj"
-    },
-    "DataKäsittelijä/1.0.0": {
-      "type": "project",
-      "path": "../DataKäsittelijä/DataKäsittelijä.csproj",
-      "msbuildProject": "../DataKäsittelijä/DataKäsittelijä.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "CourseData >= 1.0.0",
-      "DataKäsittelijä >= 1.0.0"
+      "CourseData >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\Dataprosessointi\\Dataprosessointi.csproj",
-      "projectName": "Dataprosessointi",
-      "projectPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\Dataprosessointi\\Dataprosessointi.csproj",
+      "projectUniqueName": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\DataKäsittelijä\\DataKäsittelijä.csproj",
+      "projectName": "DataKäsittelijä",
+      "projectPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\DataKäsittelijä\\DataKäsittelijä.csproj",
       "packagesPath": "C:\\Users\\Muhsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\Dataprosessointi\\obj\\",
+      "outputPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\DataKäsittelijä\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,9 +55,6 @@
           "projectReferences": {
             "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\CourseData\\CourseData.csproj": {
               "projectPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\CourseData\\CourseData.csproj"
-            },
-            "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\DataKäsittelijä\\DataKäsittelijä.csproj": {
-              "projectPath": "C:\\Users\\Muhsen\\source\\repos\\viikko2\\pe\\Miniprojekti\\Dataprosessointi\\DataKäsittelijä\\DataKäsittelijä.csproj"
             }
           }
         }

@@ -17,3 +17,5 @@ C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataproses
 C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataprosessointi\obj\Debug\net5.0\ref\Dataprosessointi.dll
 C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataprosessointi\obj\Debug\net5.0\Dataprosessointi.pdb
 C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataprosessointi\obj\Debug\net5.0\Dataprosessointi.genruntimeconfig.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataprosessointi\bin\Debug\net5.0\DataKäsittelijä.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\Dataprosessointi\bin\Debug\net5.0\DataKäsittelijä.pdb

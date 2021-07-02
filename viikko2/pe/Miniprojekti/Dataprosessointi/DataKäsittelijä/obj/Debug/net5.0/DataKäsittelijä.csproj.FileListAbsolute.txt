@@ -1,0 +1,15 @@
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\DataKäsittelijä.deps.json
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\DataKäsittelijä.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\ref\DataKäsittelijä.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\DataKäsittelijä.pdb
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\CourseData.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\bin\Debug\net5.0\CourseData.pdb
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.csproj.CopyComplete
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\ref\DataKäsittelijä.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\DataKäsittelijä\obj\Debug\net5.0\DataKäsittelijä.pdb
