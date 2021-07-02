@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace CourseData
 {
@@ -33,32 +34,29 @@ namespace CourseData
             SubCategory2 = subcategory2;
         }
 
-        public static bool SarakkeidenmääräOk(List<Data> data)
+        public static bool SarakkeidenmääräOk(Data data)
         {
             bool ok = true;
-            foreach (var item in data)
-            {
-                if (string.IsNullOrEmpty(item.CourseCode))
+                if (string.IsNullOrEmpty(data.CourseCode))
                     ok = false;
-                if (string.IsNullOrEmpty(item.Nimi))
+                if (string.IsNullOrEmpty(data.Nimi))
                     ok = false;
-                if (string.IsNullOrEmpty(item.StartDate))
+                if (string.IsNullOrEmpty(data.StartDate))
                     ok = false;
-                if (string.IsNullOrEmpty(item.EndDate))
+                if (string.IsNullOrEmpty(data.EndDate))
                     ok = false;
-                if (string.IsNullOrEmpty(item.Location))
+                if (string.IsNullOrEmpty(data.Location))
                     ok = false;
-                if (string.IsNullOrEmpty(item.MatData))
+                if (string.IsNullOrEmpty(data.MatData))
                     ok = false;
-                if (string.IsNullOrEmpty(item.Description))
+                if (string.IsNullOrEmpty(data.Description))
                     ok = false;
-                if (string.IsNullOrEmpty(item.MatData))
+                if (string.IsNullOrEmpty(data.MatData))
                     ok = false;
-                if (string.IsNullOrEmpty(item.MainCategory))
+                if (string.IsNullOrEmpty(data.MainCategory))
                     ok = false;
-                if (string.IsNullOrEmpty(item.SubCategory1))
+                if (string.IsNullOrEmpty(data.SubCategory1))
                     ok = false;
-            }
             return ok;
         }
 
@@ -80,11 +78,20 @@ namespace CourseData
 
         public static void VirheellisetRivit(List<Data> data)
         {
+            StreamWriter writer = new StreamWriter("c:/users/muhser/desktop/loki.txt");
             foreach (var item in data)
             {
-                if (SarakkeidenmääräOk())
+                if (!SarakkeidenmääräOk(item) )
                 {
-
+                    writer.WriteLine("rivi: " + data.IndexOf(item) + "Virheellinen sarakkeiden määrä!");
+                }
+                if (!KuvauspituusOk(item))
+                {
+                    writer.WriteLine("rivi: " + data.IndexOf(item) + "Kuvauksenpituus on yli 500 merkkiä!");
+                }
+                if (!LuokitusOk(item))
+                {
+                    writer.WriteLine("rivi: " + data.IndexOf(item) + "Vähemmän kuin kaksi luokitusta!");
                 }
             }
         }
