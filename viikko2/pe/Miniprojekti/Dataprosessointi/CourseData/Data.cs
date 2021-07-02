@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CourseData
 {
@@ -32,22 +33,60 @@ namespace CourseData
             SubCategory2 = subcategory2;
         }
 
-        public bool SarakkeidenmääräOk(string[] data)
+        public static bool SarakkeidenmääräOk(List<Data> data)
         {
             bool ok = true;
             foreach (var item in data)
             {
-                if (string.IsNullOrEmpty(item))
+                if (string.IsNullOrEmpty(item.CourseCode))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.Nimi))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.StartDate))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.EndDate))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.Location))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.MatData))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.Description))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.MatData))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.MainCategory))
+                    ok = false;
+                if (string.IsNullOrEmpty(item.SubCategory1))
                     ok = false;
             }
             return ok;
         }
 
-        public bool KuvauspituusOk(string[] data)
+        public static bool KuvauspituusOk(Data data)
         {
             bool ok = true;
-
+            if (data.Description.Length > 500)
+                ok = false;
             return ok;
+        }
+
+        public static bool LuokitusOk(Data data)
+        {
+            bool ok = true;
+            if (string.IsNullOrEmpty(data.MainCategory) || string.IsNullOrEmpty(data.SubCategory1))
+                ok = false;
+            return ok;
+        }
+
+        public static void VirheellisetRivit(List<Data> data)
+        {
+            foreach (var item in data)
+            {
+                if (SarakkeidenmääräOk())
+                {
+
+                }
+            }
         }
     }
 }
