@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.exe
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\ref\MerkkijonojaJaTaulukoita.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\bin\Debug\net5.0\MerkkijonojaJaTaulukoita.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\ref\MerkkijonojaJaTaulukoita.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\MerkkijonojaJaTaulukoita\MerkkijonojaJaTaulukoita\obj\Debug\net5.0\MerkkijonojaJaTaulukoita.genruntimeconfig.cache

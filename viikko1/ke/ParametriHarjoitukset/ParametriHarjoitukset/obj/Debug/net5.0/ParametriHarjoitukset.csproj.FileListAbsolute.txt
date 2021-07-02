@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.exe
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.deps.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ref\ParametriHarjoitukset.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\bin\Debug\net5.0\ParametriHarjoitukset.pdb
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ref\ParametriHarjoitukset.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.pdb
+C:\Users\Muhsen\source\repos\V1\keskiviikko\ParametriHarjoitukset\ParametriHarjoitukset\obj\Debug\net5.0\ParametriHarjoitukset.genruntimeconfig.cache

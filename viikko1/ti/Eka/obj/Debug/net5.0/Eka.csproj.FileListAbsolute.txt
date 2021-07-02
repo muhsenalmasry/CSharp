@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.exe
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.deps.json
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\ref\Eka.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\bin\Debug\net5.0\Eka.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\ref\Eka.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\Eka\obj\Debug\net5.0\Eka.genruntimeconfig.cache

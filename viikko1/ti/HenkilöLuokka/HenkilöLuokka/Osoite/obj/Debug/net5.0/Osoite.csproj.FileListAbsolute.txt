@@ -1,0 +1,12 @@
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\bin\Debug\net5.0\Osoite.deps.json
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\bin\Debug\net5.0\Osoite.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\bin\Debug\net5.0\ref\Osoite.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\bin\Debug\net5.0\Osoite.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\ref\Osoite.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\HenkilöLuokka\HenkilöLuokka\Osoite\obj\Debug\net5.0\Osoite.pdb

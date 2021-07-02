@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HenkilöLuokka/1.0.0": {
+        "dependencies": {
+          "Osoite": "1.0.0"
+        },
+        "runtime": {
+          "HenkilöLuokka.dll": {}
+        }
+      },
+      "Osoite/1.0.0": {
+        "runtime": {
+          "Osoite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HenkilöLuokka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Osoite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

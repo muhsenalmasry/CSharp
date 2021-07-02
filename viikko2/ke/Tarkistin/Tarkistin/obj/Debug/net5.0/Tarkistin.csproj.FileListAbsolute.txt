@@ -1,0 +1,12 @@
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\bin\Debug\net5.0\Tarkistin.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\bin\Debug\net5.0\Tarkistin.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\bin\Debug\net5.0\ref\Tarkistin.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\bin\Debug\net5.0\Tarkistin.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\ref\Tarkistin.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Tarkistin\Tarkistin\obj\Debug\net5.0\Tarkistin.pdb

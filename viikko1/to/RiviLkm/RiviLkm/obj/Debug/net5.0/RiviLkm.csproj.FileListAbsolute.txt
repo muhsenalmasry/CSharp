@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.exe
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.deps.json
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.dll
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\ref\RiviLkm.dll
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\bin\Debug\net5.0\RiviLkm.pdb
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.dll
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\ref\RiviLkm.dll
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.pdb
+C:\Users\Muhsen\source\repos\V1\torstai\RiviLkm\RiviLkm\obj\Debug\net5.0\RiviLkm.genruntimeconfig.cache

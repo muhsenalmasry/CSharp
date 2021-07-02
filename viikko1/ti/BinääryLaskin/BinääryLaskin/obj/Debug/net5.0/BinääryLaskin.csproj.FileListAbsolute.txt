@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.exe
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.deps.json
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\ref\BinääryLaskin.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\bin\Debug\net5.0\BinääryLaskin.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\ref\BinääryLaskin.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\BinääryLaskin\BinääryLaskin\obj\Debug\net5.0\BinääryLaskin.genruntimeconfig.cache

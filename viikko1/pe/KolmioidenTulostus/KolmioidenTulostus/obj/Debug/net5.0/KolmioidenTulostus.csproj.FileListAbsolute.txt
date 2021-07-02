@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.exe
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.deps.json
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\ref\KolmioidenTulostus.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\bin\Debug\net5.0\KolmioidenTulostus.pdb
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\ref\KolmioidenTulostus.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.pdb
+C:\Users\Muhsen\source\repos\V1\perjantai\KolmioidenTulostus\KolmioidenTulostus\obj\Debug\net5.0\KolmioidenTulostus.genruntimeconfig.cache

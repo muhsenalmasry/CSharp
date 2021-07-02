@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.exe
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.deps.json
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.runtimeconfig.json
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.dll
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\ref\RyhmäEsittely.dll
+C:\Users\Muhsen\source\repos\Esittely\Esittely\bin\Debug\net5.0\RyhmäEsittely.pdb
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.dll
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\ref\RyhmäEsittely.dll
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.pdb
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.genruntimeconfig.cache
+C:\Users\Muhsen\source\repos\Esittely\Esittely\obj\Debug\net5.0\RyhmäEsittely.csproj.AssemblyReference.cache

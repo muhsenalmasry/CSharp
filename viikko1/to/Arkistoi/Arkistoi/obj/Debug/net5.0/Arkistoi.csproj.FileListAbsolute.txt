@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.exe
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.deps.json
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.dll
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\ref\Arkistoi.dll
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\bin\Debug\net5.0\Arkistoi.pdb
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.dll
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\ref\Arkistoi.dll
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.pdb
+C:\Users\Muhsen\source\repos\V1\torstai\Arkistoi\Arkistoi\obj\Debug\net5.0\Arkistoi.genruntimeconfig.cache

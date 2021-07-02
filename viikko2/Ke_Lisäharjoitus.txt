@@ -1,0 +1,39 @@
+Tee sovellus joka tulostaa luvut 1-10 seuraavan mallin mukaisesti konsolille, ensin riittää että tulostus on tehty Main-metodissa
+
+1
+	2
+3
+	4
+5
+	6
+7
+	8
+9
+	10
+
+
+
+
+
+
+Tee uusi luokka Tulostukset ja sinne metodi public void TulostaLuvut(int ensimmäinenNumero, int viimeinenNumero) {...}
+Toteuta metodi, ja testaa toiminto kutsumalla sitä Main-metodista
+
+Tee Tulostukset-luokkaan metodi joka saa parametrina merkkijonotaulukon tai listan (List<string>).
+Taulukossa on joukko kysymyksiä ja metodin pitäisi tulostaa kyselylomakkeen osa. 
+Malli tulostuksesta:
+
+				Kyllä 				EI
+Onko C# mainio?			5	4	3	2	1
+Osaatko käyttää Snippettejä?	5	4	3	2	1
+Onko kurssilla taukoja tarpeeksi 
+usein ja riittävän pitkiä?	5	4	3	2	1
+Onko tänään hyvä päivä?		5	4	3	2	1
+
+
+Testaa ensin toiminta tulostamalla konsolille. 
+Lisäharjoitus liittyen olio-ohjelmoinnin erääseen piirteeseen.
+Muuta juuri tekemääsi metodia niin, että välität parametrina myös Streamin (TextStream),
+siis samalla metodilla pitää pystyä tulostamaan kysymykset tiedostoon ja konsolille.
+
+

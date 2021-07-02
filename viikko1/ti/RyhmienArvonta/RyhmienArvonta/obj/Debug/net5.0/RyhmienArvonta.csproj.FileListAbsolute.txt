@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.exe
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.deps.json
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\ref\RyhmienArvonta.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\bin\Debug\net5.0\RyhmienArvonta.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\ref\RyhmienArvonta.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\RyhmienArvonta\RyhmienArvonta\obj\Debug\net5.0\RyhmienArvonta.genruntimeconfig.cache

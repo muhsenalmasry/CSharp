@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.exe
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\ref\Viitenumeroita.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\bin\Debug\net5.0\Viitenumeroita.pdb
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\ref\Viitenumeroita.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.pdb
+C:\Users\Muhsen\source\repos\viikko2\ma\Viitenumeroita\Viitenumeroita\Viitenumeroita\obj\Debug\net5.0\Viitenumeroita.genruntimeconfig.cache

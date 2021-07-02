@@ -1,0 +1,12 @@
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\bin\Debug\net5.0\LaskentaaYms.deps.json
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\bin\Debug\net5.0\LaskentaaYms.dll
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\bin\Debug\net5.0\ref\LaskentaaYms.dll
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\bin\Debug\net5.0\LaskentaaYms.pdb
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.csproj.AssemblyReference.cache
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.AssemblyInfoInputs.cache
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.AssemblyInfo.cs
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.dll
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\ref\LaskentaaYms.dll
+C:\Users\Muhsen\Desktop\ToYksikköTestiHarjoitus\LaskentaaYms\obj\Debug\net5.0\LaskentaaYms.pdb

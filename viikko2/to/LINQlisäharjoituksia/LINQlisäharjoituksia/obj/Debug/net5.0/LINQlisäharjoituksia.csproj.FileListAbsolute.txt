@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.exe
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.deps.json
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.dll
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\ref\LINQlisäharjoituksia.dll
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\bin\Debug\net5.0\LINQlisäharjoituksia.pdb
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.dll
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\ref\LINQlisäharjoituksia.dll
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.pdb
+C:\Users\Muhsen\source\repos\viikko2\to\LINQlisäharjoituksia\LINQlisäharjoituksia\obj\Debug\net5.0\LINQlisäharjoituksia.genruntimeconfig.cache

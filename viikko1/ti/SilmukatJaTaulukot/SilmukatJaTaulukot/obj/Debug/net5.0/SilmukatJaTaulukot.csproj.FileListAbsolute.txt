@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.exe
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.deps.json
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\ref\SilmukatJaTaulukot.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\bin\Debug\net5.0\SilmukatJaTaulukot.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\ref\SilmukatJaTaulukot.dll
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.pdb
+C:\Users\Muhsen\source\repos\V1\tiistai\SilmukatJaTaulukot\SilmukatJaTaulukot\obj\Debug\net5.0\SilmukatJaTaulukot.genruntimeconfig.cache
