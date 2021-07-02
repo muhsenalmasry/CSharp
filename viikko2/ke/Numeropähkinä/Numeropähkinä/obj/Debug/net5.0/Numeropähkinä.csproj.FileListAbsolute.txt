@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.exe
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\ref\Numeropähkinä.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\bin\Debug\net5.0\Numeropähkinä.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\ref\Numeropähkinä.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\Numeropähkinä\Numeropähkinä\obj\Debug\net5.0\Numeropähkinä.genruntimeconfig.cache

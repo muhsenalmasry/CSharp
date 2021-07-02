@@ -1,0 +1,11 @@
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.deps.json
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.dll
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\bin\Debug\net5.0\ref\GameOfLife.dll
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\bin\Debug\net5.0\GameOfLife.pdb
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.dll
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\ref\GameOfLife.dll
+C:\Users\Muhsen\source\repos\GameOfLife\GameOfLife\obj\Debug\net5.0\GameOfLife.pdb

@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.exe
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\ref\Laskenta.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\bin\Debug\net5.0\Laskenta.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\ref\Laskenta.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\Laskenta\Laskenta\obj\Debug\net5.0\Laskenta.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeropähkinä", "Numeropähkinä\Numeropähkinä.csproj", "{0787AB07-D2B2-4C22-B620-88D6BEDBAB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0787AB07-D2B2-4C22-B620-88D6BEDBAB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0787AB07-D2B2-4C22-B620-88D6BEDBAB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0787AB07-D2B2-4C22-B620-88D6BEDBAB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0787AB07-D2B2-4C22-B620-88D6BEDBAB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2223BE0E-59BE-4C7B-84F4-25FAA874E144}
+	EndGlobalSection
+EndGlobal

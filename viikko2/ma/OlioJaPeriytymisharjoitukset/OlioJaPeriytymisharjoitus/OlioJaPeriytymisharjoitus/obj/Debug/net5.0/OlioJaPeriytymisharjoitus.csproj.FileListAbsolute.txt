@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.exe
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\ref\OlioJaPeriytymisharjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\bin\Debug\net5.0\OlioJaPeriytymisharjoitus.pdb
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\ref\OlioJaPeriytymisharjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.pdb
+C:\Users\Muhsen\source\repos\viikko2\ma\OlioJaPeriytymisharjoitukset\OlioJaPeriytymisharjoitus\OlioJaPeriytymisharjoitus\obj\Debug\net5.0\OlioJaPeriytymisharjoitus.genruntimeconfig.cache

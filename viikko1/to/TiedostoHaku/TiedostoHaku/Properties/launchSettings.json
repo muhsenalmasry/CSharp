@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TiedostoHaku": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/users/muhsen/source/repos/viikko1/torstai/TiedostoHaku/TiedostoHaku exe \"class Program\""
+    }
+  }
+}

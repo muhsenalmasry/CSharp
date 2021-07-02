@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.exe
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.deps.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\ref\Ke_LisäHarjoitus.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\bin\Debug\net5.0\Ke_LisäHarjoitus.pdb
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\ref\Ke_LisäHarjoitus.dll
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.pdb
+C:\Users\Muhsen\source\repos\V1\keskiviikko\Ke_LisäHarjoitus\Ke_LisäHarjoitus\obj\Debug\net5.0\Ke_LisäHarjoitus.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\bin\Debug\net5.0\CourseData.deps.json
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\bin\Debug\net5.0\CourseData.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\bin\Debug\net5.0\ref\CourseData.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\bin\Debug\net5.0\CourseData.pdb
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\ref\CourseData.dll
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.pdb
+C:\Users\Muhsen\source\repos\viikko2\pe\Miniprojekti\Dataprosessointi\CourseData\obj\Debug\net5.0\CourseData.csproj.AssemblyReference.cache

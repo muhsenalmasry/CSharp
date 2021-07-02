@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arkistoi": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/users/muhsen/source/repos/V1/torstai/Arkistoi"
+    }
+  }
+}

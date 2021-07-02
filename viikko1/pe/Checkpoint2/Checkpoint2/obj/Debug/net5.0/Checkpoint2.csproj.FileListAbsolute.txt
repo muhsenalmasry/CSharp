@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.exe
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.deps.json
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.runtimeconfig.json
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\ref\Checkpoint2.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\bin\Debug\net5.0\Checkpoint2.pdb
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\ref\Checkpoint2.dll
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.pdb
+C:\Users\Muhsen\source\repos\V1\perjantai\Checkpoint2\Checkpoint2\obj\Debug\net5.0\Checkpoint2.genruntimeconfig.cache

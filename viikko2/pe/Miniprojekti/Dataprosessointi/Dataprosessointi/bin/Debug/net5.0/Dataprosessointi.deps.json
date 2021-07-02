@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dataprosessointi/1.0.0": {
+        "dependencies": {
+          "CourseData": "1.0.0"
+        },
+        "runtime": {
+          "Dataprosessointi.dll": {}
+        }
+      },
+      "CourseData/1.0.0": {
+        "runtime": {
+          "CourseData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dataprosessointi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

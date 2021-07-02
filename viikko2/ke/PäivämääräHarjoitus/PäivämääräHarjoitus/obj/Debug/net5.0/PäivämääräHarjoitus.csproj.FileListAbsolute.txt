@@ -1,0 +1,16 @@
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.exe
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.deps.json
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.runtimeconfig.json
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.runtimeconfig.dev.json
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\ref\PäivämääräHarjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\bin\Debug\net5.0\PäivämääräHarjoitus.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.csproj.AssemblyReference.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.AssemblyInfoInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.AssemblyInfo.cs
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\ref\PäivämääräHarjoitus.dll
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.pdb
+C:\Users\Muhsen\source\repos\viikko2\ke\PäivämääräHarjoitus\PäivämääräHarjoitus\obj\Debug\net5.0\PäivämääräHarjoitus.genruntimeconfig.cache
